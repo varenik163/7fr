@@ -1,28 +1,25 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { App as App7, Panel, View, Statusbar } from 'framework7-react';
+import routes from './routes';
+import './css/app.css'
+import './App.css'
+import './css/framework7.min.css'
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
+export default function (props) {
+  let theme = 'auto';
+  if (document.location.search.indexOf('theme=') >= 0) {
+    theme = document.location.search.split('theme=')[1].split('&')[0];
   }
-}
-
-export default App;
+  return (
+    <App7 params={{ theme, routes }}>
+      <Statusbar />
+      <Panel left cover>
+        <View url="/panel-left/" linksView=".view-main" />
+      </Panel>
+      <Panel right reveal>
+        <View url="/panel-right/"/>
+      </Panel>
+      <View url="/" main className="ios-edges"/>
+    </App7>
+  );
+};
