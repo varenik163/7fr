@@ -1,10 +1,302 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1650f403-8ebf-41c2-8ed6-674306c27dc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/Framework7Icons-Regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/Framework7Icons-Regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/Framework7Icons-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/Framework7Icons-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/Framework7Icons-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/Framework7Icons-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/Framework7Icons-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/Framework7Icons-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/MaterialIcons-Regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/MaterialIcons-Regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/MaterialIcons-Regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/MaterialIcons-Regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/MaterialIcons-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/MaterialIcons-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/MaterialIcons-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/fonts/MaterialIcons-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/MaterialIcons-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/img/beach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/beach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/img/f7-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/f7-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/img/lock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/lock.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/img/monkey.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/monkey.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/img/mountains.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/mountains.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/js/autocomplete-languages.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/autocomplete-languages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/404.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/accordion.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/accordion.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/action-sheet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/action-sheet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/autocomplete.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/autocomplete.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/badge.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/badge.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/buttons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/buttons.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/calendar-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/calendar-page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/calendar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/checkbox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkbox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/chips.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chips.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/color-themes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/color-themes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/contacts-list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contacts-list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/content-block.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/content-block.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/data-table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/data-table.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/dialog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/elevation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/elevation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/fab-morph.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/fab-morph.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/fab.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/fab.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/form-storage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/form-storage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/gauge.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/gauge.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/grid.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/grid.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/icons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/icons.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/infinite-scroll.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/infinite-scroll.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/inputs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/inputs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/lazy-load.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/lazy-load.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/list-index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/list-index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/login-screen-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login-screen-page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/login-screen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login-screen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/messages.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/messages.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/navbar-hide-scroll.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/navbar-hide-scroll.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/notifications.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/notifications.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/panel-left.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/panel-left.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/panel-right.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/panel-right.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/panel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/panel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/photo-browser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/photo-browser.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/picker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/picker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/popover.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/popover.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/popup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/popup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/preloader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/preloader.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/progressbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/progressbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/pull-to-refresh.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pull-to-refresh.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/radio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/radio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/range.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/range.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/routable-actions.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/routable-actions.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/routable-modals.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/routable-modals.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/routable-popup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/routable-popup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/searchbar-expandable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/searchbar-expandable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/searchbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/searchbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/sheet-modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sheet-modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/smart-select.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/smart-select.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/sortable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sortable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/statusbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/statusbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/stepper.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/stepper.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/subnavbar-title.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/subnavbar-title.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/subnavbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/subnavbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swipeout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swipeout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-3d-coverflow.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-3d-coverflow.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-3d-cube.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-3d-cube.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-3d-flip.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-3d-flip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-custom-controls.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-custom-controls.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-fade.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-fade.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-gallery.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-gallery.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-horizontal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-horizontal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-lazy.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-lazy.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-loop.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-loop.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-multiple.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-multiple.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-nested.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-nested.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-pagination-fraction.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-pagination-fraction.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-pagination-progress.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-pagination-progress.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-parallax.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-parallax.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-scrollbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-scrollbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-space-between.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-space-between.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-vertical.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-vertical.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper-zoom.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper-zoom.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/swiper.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/swiper.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabbar-labels.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabbar-labels.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabbar-scrollable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabbar-scrollable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabs-animated.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabs-animated.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabs-routable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabs-routable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabs-static.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabs-static.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabs-swipeable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabs-swipeable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tabs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tabs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/timeline-horizontal-calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/timeline-horizontal-calendar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/timeline-horizontal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/timeline-horizontal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/timeline-vertical.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/timeline-vertical.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/timeline.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/timeline.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/toast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/toast.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/toggle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/toggle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/toolbar-hide-scroll.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/toolbar-hide-scroll.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/toolbar-tabbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/toolbar-tabbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/tooltip.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tooltip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/pages/virtual-list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/virtual-list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1344767522">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="6" />
+          <entry key="json" value="2" />
+          <entry key="jsx" value="1" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="JSX Harmony" value="1" />
+          <entry key="JavaScript" value="6" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="8" />
+          <entry key="jsx" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSX Harmony" value="36" />
+          <entry key="JavaScript" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/autocomplete-languages.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/app.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="28" />
     <option name="width" value="1855" />
     <option name="height" value="1052" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="7fr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7fr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7fr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7fr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -14,6 +306,150 @@
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1650f403-8ebf-41c2-8ed6-674306c27dc2" name="Default Changelist" comment="" />
+      <created>1539673088376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539673088376</updated>
+      <workItem from="1539673089690" duration="2289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2289000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="2" width="1855" height="1078" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24820343" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32983193" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/autocomplete-languages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/framework7-react/framework7-react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
